@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFinalExaminationApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="random">Random</string>
+    <string name="developers">Developers:</string>
+    <string name="numbers">Numbers</string>
+    <string name="info">Info</string>
+    <string name="our_website">Our_website</string>
+</resources>
